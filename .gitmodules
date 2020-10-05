@@ -1,0 +1,3 @@
+[submodule "docs-next-zh-cn"]
+	path = docs-next-zh-cn
+	url = https://github.com/vuejs/docs-next-zh-cn.git
