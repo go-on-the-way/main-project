@@ -1,3 +1,6 @@
 [submodule "docs-next-zh-cn"]
 	path = docs-next-zh-cn
 	url = https://github.com/vuejs/docs-next-zh-cn.git
+[submodule "express-mysql-jade"]
+	path = express-mysql-jade
+	url = https://github.com/go-on-the-way/express-mysql-jade.git
